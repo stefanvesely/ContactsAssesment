@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Contacts</id>
+    <version>1.0.0</version>
+    <authors>Contacts</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="DevExpress.Data" version="22.1.4" exclude="Build,Analyzers" />
+        <dependency id="Refractored.MvvmHelpers" version="1.6.2" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Essentials" version="1.7.3" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms" version="5.0.0.2515" exclude="Build,Analyzers" />
+        <dependency id="sqlite-net-pcl" version="1.8.116" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\cent\Assesment\Assesment\Contacts\bin\Debug\netstandard2.0\Contacts.dll" target="lib\netstandard2.0\Contacts.dll" />
+  </files>
+</package>

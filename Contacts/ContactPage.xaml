@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:Contacts.ViewModels"
+             mc:Ignorable="d"
+             x:Class="Contacts.ContactPage"
+             Title="My Contacts"
+             BackgroundImageSource="fullsplash.png">
+    <ContentPage.BindingContext>
+        <ViewModels:ContactsViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                     Clicked="OnNoteAddedClicked"
+                     Icon="toolicon3.png" />
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <CollectionView x:Name="collectionview"   SelectionMode="Single" SelectionChanged="OnItemSelected">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Margin="0,10,0,0" Padding="0,5,0,0">
+
+                        <Label Padding="1,0,0,1" HorizontalTextAlignment="Center" Margin="5,0,5,0" HeightRequest="30" FontAttributes="Bold" BackgroundColor="#8095FF" FontSize="Large" Text="{Binding Name, StringFormat='Name: {0}'}"></Label>
+                        <Label Margin="20,0,20,0" HorizontalTextAlignment="Center" FontAttributes="Italic" BackgroundColor="#A64DFF" FontSize="Small">
+                            <Label.Text>
+                                <MultiBinding StringFormat="Telephone: 0{1} &#x0a; Email: '{0}'">
+                                    <Binding Path="Email"></Binding>
+                                    <Binding Path="ContactNumber"></Binding>
+                                </MultiBinding>
+                            </Label.Text>
+                        </Label>
+                        <Label Margin="20,0,20,0" HorizontalTextAlignment="Start" Padding="30,0,0,0" FontAttributes="None" BackgroundColor="#FF80D5"  FontSize="Micro" Text="{Binding Date}"></Label>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

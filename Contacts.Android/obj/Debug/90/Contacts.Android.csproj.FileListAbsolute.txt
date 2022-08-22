@@ -1,0 +1,934 @@
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\bin\Debug\Contacts.Android.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\bin\Debug\Contacts.Android.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\bin\Debug\com.companyname.Contacts.apk
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\bin\Debug\com.companyname.Contacts-Signed.aab
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\bin\Debug\com.companyname.Contacts-Signed.apk
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\bin\Debug\Contacts.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\bin\Debug\Contacts.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\build.props
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\adb.props
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\Contacts.Android.csprojAssemblyReference.cache
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\resourcepaths.cache
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\resourcecache.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res.flag
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\2EAE356EE36BC298.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\B9C2D403774D20DB.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\96E6CC9AF20C2561.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\0E7FAF2D8E0C6BF1.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\FEDE9B36022E7836.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\EECF2613552E0CD6.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\6647F8817E2E36A6.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\F12B19ECEA08D4E5.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\B56F7625FF08C9DD.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\0A99F56341C2241A.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\2EAE356EE36BC298.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\B9C2D403774D20DB.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\96E6CC9AF20C2561.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\0E7FAF2D8E0C6BF1.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\FEDE9B36022E7836.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\EECF2613552E0CD6.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\6647F8817E2E36A6.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\F12B19ECEA08D4E5.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\B56F7625FF08C9DD.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\0A99F56341C2241A.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\R.txt
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\R.cs.flag
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\XamlC.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\Contacts.Android.csproj.CopyComplete
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\Contacts.Android.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\Contacts.Android.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\bin\com.companyname.Contacts.apk
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\bin\com.companyname.Contacts.aab
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\bin\com.companyname.Contacts.apks
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\uploadflags.txt
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Contacts.Android.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Contacts.Android.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Contacts.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Contacts.dll.mdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Globalization.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\__environment__.txt
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\static.flag
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\buildid.txt
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\crc6459dd1e2b7d90b302\MainActivity.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\src\com\companyname\contacts\R.java
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.jm.x86.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.mj.x86.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\bin\Debug\Contacts.Android.dll
+E:\cent\Assesment\Assesment\Contacts.Android\bin\Debug\Contacts.Android.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\bin\Debug\com.companyname.Contacts.apk
+E:\cent\Assesment\Assesment\Contacts.Android\bin\Debug\com.companyname.Contacts.aab
+E:\cent\Assesment\Assesment\Contacts.Android\bin\Debug\com.companyname.Contacts-Signed.aab
+E:\cent\Assesment\Assesment\Contacts.Android\bin\Debug\com.companyname.Contacts-Signed.apk
+E:\cent\Assesment\Assesment\Contacts.Android\bin\Debug\com.companyname.Contacts-Signed.apk.idsig
+E:\cent\Assesment\Assesment\Contacts.Android\bin\Debug\Contacts.dll
+E:\cent\Assesment\Assesment\Contacts.Android\bin\Debug\Contacts.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\build.props
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\adb.props
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\Contacts.Android.csproj.AssemblyReference.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res.flag
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\R.txt
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\R.cs.flag
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\Contacts.Android.csproj.CoreCompileInputs.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\XamlC.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\Contacts.Android.csproj.CopyComplete
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\Contacts.Android.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\Contacts.Android.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\bin\com.companyname.Contacts.apk
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\bin\base.zip
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\bin\com.companyname.Contacts.aab
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\bin\com.companyname.Contacts.apks
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\layout\tabbar.xml
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\layout\toolbar.xml
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\values\styles.xml
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\values\colors.xml
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\uploadflags.txt
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\resolvedassemblies.hash
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Contacts.Android.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Contacts.Android.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Contacts.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Contacts.dll.mdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Java.Interop.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Mono.Android.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Mono.Security.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\mscorlib.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\mscorlib.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\netstandard.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\SQLite-net.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Core.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Core.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Data.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Data.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Numerics.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Runtime.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Transactions.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Xml.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Xml.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\typemaps.x86.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\typemaps.x86_64.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\typemaps.shared.inc
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\AndroidManifest.xml
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\__environment__.txt
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\machine.config
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\bin\mono.android.jar
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\static.flag
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\buildid.txt
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\environment.arm64-v8a.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\environment.x86.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\environment.x86_64.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\compat\R.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\design\R.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\transition\R.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc6459dd1e2b7d90b302\MainActivity.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\bin\packaged_resources
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\src\com\companyname\contacts\R.java
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\typemaps.x86.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\typemaps.x86_64.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\environment.arm64-v8a.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\environment.x86.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\environment.x86_64.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\bin\classes.dex
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\lp\18\jl\files.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\lp\31\jl\files.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\lp\35\jl\files.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\lp\39\jl\files.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\lp\13\jl\files.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\lp\14\jl\files.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\lp\20\jl\files.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\lp\27\jl\files.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\lp\33\jl\files.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\lp\34\jl\files.cache
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Buffers.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Memory.dll
+E:\cent\Assesment\Assesment\Contacts.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+E:\cent\Assesment\Assesment\Contacts.Android\bin\Debug\Contacts.dll.mdb

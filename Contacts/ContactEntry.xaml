@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:ViewModels="clr-namespace:Contacts.ViewModels"
+             xmlns:controls="clr-namespace:Contacts.Controls"
+             xmlns:local ="clr-namespace:Contacts"
+             xmlns:behavior="clr-namespace:Contacts.Behavior"
+             mc:Ignorable="d"
+             x:Class="Contacts.ContactEntry"
+             x:DataType="ViewModels:EntryViewModel"
+             Title="Contact Entry"
+             BackgroundImageSource="fullsplash.png">
+    <StackLayout Margin="20">
+        <Label HeightRequest="20" TextColor="#FFFFFF">Name</Label>
+        <controls:ExtendedEntry BackgroundColor="#B3E5FF" Placeholder="Contact Name" ErrorText="{Binding NameErrorText, Mode=TwoWay}"
+                BorderErrorColor="Red"
+                Text="{Binding Name}"
+                HeightRequest="45"
+                IsBorderErrorVisible="{Binding NameError, Mode=TwoWay}">
+            <controls:ExtendedEntry.Behaviors>
+                <behavior:EmptyEntryValidation />
+            </controls:ExtendedEntry.Behaviors>
+        </controls:ExtendedEntry>
+        <Label HeightRequest="20" TextColor="#FFFFFF">Num.</Label>
+        <Entry Placeholder="Contact Number"
+               BackgroundColor="#B3E5FF"
+                Text="{Binding Number, Mode=TwoWay}"
+                HeightRequest="43">
+            <Entry.Behaviors>
+                <behavior:NumericEntryBehavior />
+            </Entry.Behaviors>
+        </Entry>
+        <Label HeightRequest="20" TextColor="#FFFFFF">Email.</Label>
+        <controls:ExtendedEntry Placeholder="Contact Email" ErrorText="{Binding EmailErrorText, Mode=TwoWay}"
+                Text="{Binding Email}"
+                BackgroundColor="#B3E5FF"
+                BorderErrorColor="Red"
+                IsBorderErrorVisible="{Binding EmailError,Mode=TwoWay}"
+                HeightRequest="45">
+            <controls:ExtendedEntry.Behaviors>
+                <behavior:EmptyEntryValidation />
+            </controls:ExtendedEntry.Behaviors>
+        </controls:ExtendedEntry>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button x:Name="SaveButton"
+                    Text="Save"
+                    BackgroundColor="#A64DFF"
+                    TextColor="#E6FFF7"
+                    Clicked="OnSaveButtonClicked"
+                    IsEnabled="{Binding SaveEnabled}" />
+            <Button Grid.Column="1"
+                    BackgroundColor="#A64DFF"
+                    TextColor="#E6FFF7"
+                    IsVisible="{Binding DeleteButton}"
+                    Text="Delete"
+                    Clicked="OnDeleteButtonClicked" />
+        </Grid>
+    </StackLayout>
+</ContentPage>

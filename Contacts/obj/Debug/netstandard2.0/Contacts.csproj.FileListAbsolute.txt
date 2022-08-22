@@ -1,0 +1,24 @@
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\bin\Debug\netstandard2.0\Contacts.deps.json
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\bin\Debug\netstandard2.0\Contacts.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\bin\Debug\netstandard2.0\Contacts.pdb
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\obj\Debug\netstandard2.0\ContactEntry.xaml.g.cs
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\obj\Debug\netstandard2.0\ContactPage.xaml.g.cs
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\obj\Debug\netstandard2.0\Contacts.AssemblyInfoInputs.cache
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\obj\Debug\netstandard2.0\Contacts.AssemblyInfo.cs
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\obj\Debug\netstandard2.0\Contacts.dll
+C:\Users\renato.dejesus\Desktop\Assesment\Part 2\Notes\obj\Debug\netstandard2.0\Contacts.pdb
+E:\cent\Assesment\Assesment\Contacts\bin\Debug\netstandard2.0\Contacts.deps.json
+E:\cent\Assesment\Assesment\Contacts\bin\Debug\netstandard2.0\Contacts.dll
+E:\cent\Assesment\Assesment\Contacts\bin\Debug\netstandard2.0\Contacts.pdb
+E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\ContactEntry.xaml.g.cs
+E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\ContactPage.xaml.g.cs
+E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\Contacts.AssemblyInfoInputs.cache
+E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\Contacts.AssemblyInfo.cs
+E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\Contacts.csproj.CoreCompileInputs.cache
+E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\XamlC.stamp
+E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\Contacts.dll
+E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\Contacts.pdb
