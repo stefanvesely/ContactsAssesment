@@ -25,7 +25,6 @@ E:\cent\Assesment\Assesment\Contacts\obj\Debug\netstandard2.0\Contacts.pdb
 E:\cent\Assesment\Assesment\ContactsAssesment\Contacts\bin\Debug\netstandard2.0\Contacts.deps.json
 E:\cent\Assesment\Assesment\ContactsAssesment\Contacts\bin\Debug\netstandard2.0\Contacts.dll
 E:\cent\Assesment\Assesment\ContactsAssesment\Contacts\bin\Debug\netstandard2.0\Contacts.pdb
-E:\cent\Assesment\Assesment\ContactsAssesment\Contacts\obj\Debug\netstandard2.0\Contacts.csproj.AssemblyReference.cache
 E:\cent\Assesment\Assesment\ContactsAssesment\Contacts\obj\Debug\netstandard2.0\Contacts.GeneratedMSBuildEditorConfig.editorconfig
 E:\cent\Assesment\Assesment\ContactsAssesment\Contacts\obj\Debug\netstandard2.0\App.xaml.g.cs
 E:\cent\Assesment\Assesment\ContactsAssesment\Contacts\obj\Debug\netstandard2.0\ContactEntry.xaml.g.cs
