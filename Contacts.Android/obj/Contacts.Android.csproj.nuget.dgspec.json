@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\cent\\Assesment\\Assesment\\Contacts.Android\\Contacts.Android.csproj": {}
+    "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts.Android\\Contacts.Android.csproj": {}
   },
   "projects": {
-    "E:\\cent\\Assesment\\Assesment\\Contacts.Android\\Contacts.Android.csproj": {
+    "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts.Android\\Contacts.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cent\\Assesment\\Assesment\\Contacts.Android\\Contacts.Android.csproj",
+        "projectUniqueName": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts.Android\\Contacts.Android.csproj",
         "projectName": "Contacts.Android",
-        "projectPath": "E:\\cent\\Assesment\\Assesment\\Contacts.Android\\Contacts.Android.csproj",
+        "projectPath": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts.Android\\Contacts.Android.csproj",
         "packagesPath": "C:\\Users\\malie\\.nuget\\packages\\",
-        "outputPath": "E:\\cent\\Assesment\\Assesment\\Contacts.Android\\obj\\",
+        "outputPath": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "E:\\cent\\Assesment\\Assesment\\Contacts\\Contacts.csproj": {
-                "projectPath": "E:\\cent\\Assesment\\Assesment\\Contacts\\Contacts.csproj"
+              "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts\\Contacts.csproj": {
+                "projectPath": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts\\Contacts.csproj"
               }
             }
           }
@@ -56,14 +56,14 @@
         }
       }
     },
-    "E:\\cent\\Assesment\\Assesment\\Contacts\\Contacts.csproj": {
+    "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts\\Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cent\\Assesment\\Assesment\\Contacts\\Contacts.csproj",
+        "projectUniqueName": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts\\Contacts.csproj",
         "projectName": "Contacts",
-        "projectPath": "E:\\cent\\Assesment\\Assesment\\Contacts\\Contacts.csproj",
+        "projectPath": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts\\Contacts.csproj",
         "packagesPath": "C:\\Users\\malie\\.nuget\\packages\\",
-        "outputPath": "E:\\cent\\Assesment\\Assesment\\Contacts\\obj\\",
+        "outputPath": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

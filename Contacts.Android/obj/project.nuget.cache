@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nYwGKXcLvGE2p3MnGEASK9AAxGr6HZQ+rH9q/P3JL1YNieG652wtg9WK66I4aVNiVfu/4GuvhZPsKNCADQMBrw==",
+  "dgSpecHash": "LTUEBOjwqU7zCyPjiSLs8b7H6G1Rm3qPfJ+/rI6xHTEEfa8Ie6+8sByIX5Hu+Wec0nl8ELZzWwMgHHvx4EFhBg==",
   "success": true,
-  "projectFilePath": "E:\\cent\\Assesment\\Assesment\\Contacts.Android\\Contacts.Android.csproj",
+  "projectFilePath": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts.Android\\Contacts.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\malie\\.nuget\\packages\\devexpress.data\\22.1.4\\devexpress.data.22.1.4.nupkg.sha512",
     "C:\\Users\\malie\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",

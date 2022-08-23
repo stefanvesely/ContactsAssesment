@@ -2054,11 +2054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\cent\\Assesment\\Assesment\\Contacts\\Contacts.csproj",
+      "projectUniqueName": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts\\Contacts.csproj",
       "projectName": "Contacts",
-      "projectPath": "E:\\cent\\Assesment\\Assesment\\Contacts\\Contacts.csproj",
+      "projectPath": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts\\Contacts.csproj",
       "packagesPath": "C:\\Users\\malie\\.nuget\\packages\\",
-      "outputPath": "E:\\cent\\Assesment\\Assesment\\Contacts\\obj\\",
+      "outputPath": "E:\\cent\\Assesment\\Assesment\\ContactsAssesment\\Contacts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
